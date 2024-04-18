@@ -1,0 +1,30 @@
+2024-04-14 17:55:19,142:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 17:55:19,146:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 17:57:02,767:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 18:03:12,121:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 18:03:12,134:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 18:04:42,868:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 18:04:42,880:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 19:00:01,879:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 19:00:01,879:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-04-14 19:02:58,185:WARNING:C:\Users\mahad\anaconda3\Lib\site-packages\IPython\core\formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
